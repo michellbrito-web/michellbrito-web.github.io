@@ -75,8 +75,9 @@
     padding-top: 50px;
 }
 .footer{
-    height: 150px;
-    background-color:#827ba8;
+    height: 500px;
+    background-color:#272a33;
+    color: white;
 }
 .navhome{
     background-color:#3c54b4 !important; 
@@ -100,7 +101,7 @@
     background-color: #3c54b4;
     margin-right: 10px;
     color: white;
-    padding-right: 80px;
+    padding-right: 60px;
     font-family: roboto;
     font-size: 25px;
     padding-top: 70px;
@@ -170,6 +171,7 @@
 .sobre1{
     background-color: white;
     min-height: 350px;
+    padding-top: 50px;
 }
 .col1sobre2{
     background-color: white;
@@ -179,8 +181,13 @@
     color: #696969;
 }
 .col2sobre2{
-    background-color: white;
+    background-image: url(http://www.parqueamantikir.com.br/wp-content/uploads/2015/11/CIRCULO-AZUL-Ainda-n%C3%A3o-possui-%C3%ADcone-300x300.png);
     margin-left: 10px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 130px;
+    
+    
 }
 .rowsobre2{
     min-height: 300px;
@@ -188,7 +195,8 @@
 }
 .sobre2{
     background-color:white !important;
-    min-height: 500px;
+    min-height: 400px;
+    padding-top: 50px;
 }
 .rownav{
     width: 100%;
@@ -211,9 +219,10 @@
     min-height: 700px;
 }
 .rowsobre{
-    padding-left: 200px;
+    padding-left: 300px;
     background-color: white;
     color: #696969;
+    padding-top: 80px;
     
 }
 .row5{
@@ -252,7 +261,7 @@
 }
 .rowserv1{
     min-height: 300px;
-    padding-top: 30px;
+    padding-top: 100px;
 }
 .serv1{
     background-color: white;
@@ -313,4 +322,159 @@
 .row11{
     font-size: 20px;
     padding-top: 30px;
+}
+.img3{
+    max-width: auto;
+    max-height: 500px;
+}
+.col1r2{
+    background-color: #f8f9fa;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: roboto;
+    color: #696969;
+}
+.col2r2{
+    background-image: url(http://www.parqueamantikir.com.br/wp-content/uploads/2015/11/CIRCULO-AZUL-Ainda-n%C3%A3o-possui-%C3%ADcone-300x300.png);
+    margin-left: 10px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 130px;
+}
+.rowr2{
+    min-height: 300px;
+    padding-top: 150px;
+}
+.r2{
+    background-color: #f8f9fa !important;
+    min-height: 700px;
+}
+.col2r3{
+    background-color: white;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: roboto;
+    color: #696969;
+}
+.col1r3{
+    background-image: url(http://www.parqueamantikir.com.br/wp-content/uploads/2015/11/CIRCULO-AZUL-Ainda-n%C3%A3o-possui-%C3%ADcone-300x300.png);
+    margin-left: 10px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+.rowr3{
+    min-height: 300px;
+    padding-top: 200px;
+}
+.r3{
+    background-color:white !important;
+    min-height: 800px;
+}
+.col1r4{
+    background-color: #f8f9fa;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: roboto;
+    color: #696969;
+}
+.col2r4{
+    background-image: url(http://www.parqueamantikir.com.br/wp-content/uploads/2015/11/CIRCULO-AZUL-Ainda-n%C3%A3o-possui-%C3%ADcone-300x300.png);
+    margin-left: 10px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 130px;
+}
+.rowr4{
+    min-height: 300px;
+    padding-top: 200px;
+}
+.r4{
+    background-color:#f8f9fa !important;
+    min-height: 800px;
+}
+.pre{
+    background-color: #3c54b4;
+    color: white;
+}
+.but{
+    color:white !important;
+    background-color: #3c54b4;
+}
+.preços{
+    padding-top: 80px;
+    padding-right: 30px;
+    min-height: 700px;
+}
+.blog{
+    padding-top: 200px;
+    padding-right: 10px;
+    min-height: 900px;
+}
+.bimg1{
+    max-width: auto !important;
+    max-height: 250px ;
+}
+.conta{
+    padding-top: 80px;
+    padding-right: 30px;
+    min-height: 700px;
+}
+.conta2{
+    padding-top: 30px;
+}
+.conta3{
+    padding-left: 50px;
+}
+.logoc{
+    max-width: auto !important;
+    max-height: 15px ;
+}
+.rowcont{
+    padding-top: 40px;
+}
+.rowcont1{
+    padding-top: 30px;
+}
+.but2{
+    color: white !important;
+    background-color: orange !important;
+    
+}
+.rowbut{
+    padding-top: 50px;
+    padding-left: 15px;
+}
+.footercolor{
+    color: #A9A9A9;
+}
+.rowfooter{
+    padding-top: 120px;
+}
+.butf{
+    color:#A9A9A9 ;
+    background-color: #272a33;
+}
+.email{
+    color:#A9A9A9 ;
+    background-color: #222222;
+    border-color: #272a33;
+    padding-left: 15px;
+}
+.email1{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.by{
+    color: #A9A9A9;
+    background-color: #343a40;
+    padding-left: 750px;
+    padding-top: 10px;
+    
+}
+.rowrecursos{
+    padding-left: 300px;
+    background-color: #f8f9fa;
+    color: #696969;
+    padding-top: 50px;
 }
