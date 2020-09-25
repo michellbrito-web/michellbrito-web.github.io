@@ -182,7 +182,7 @@
 }
 .sobre1{
     
-    min-height: 1050px;
+    min-height: 980px;
     padding-top: 50px;
     background-image: url(http://zooki.react.themesbrand.com/images/bg-light-about.png);
     background-size: 1900px;
@@ -279,7 +279,8 @@
 }
 .serv1{
     background-color: white;
-    min-height: 350px;
+    min-height: 300px;
+    padding-top: 0;
 }
 .col1serv2{
     background-color: white;
@@ -417,15 +418,15 @@
     background-color: #3c54b4;
 }
 .preços{
-    padding-top: 50px;
+    padding-top: 30px;
     padding-right: 50px;
     min-height: 100px !important;
     
 }
 .blog{
-    padding-top: 50px;
+    padding-top: 30px;
     padding-right: 50px;
-    min-height: 900px;
+    min-height: 700px;
     padding-left: 20px !important;
 }
 .bimg1{
@@ -508,8 +509,9 @@
     padding-left: 10px !important;
     background-color: white;
     color: #696969;
-    padding-top: 30px;
-    padding-bottom: 100px;
+    padding-top: 0px;
+    padding-bottom: 150px;
+    height: 50px;
     
     
 }
@@ -529,5 +531,12 @@
     padding-top: 0px;
     padding-bottom: 50px;
     
+    
+}
+.rowserviços{
+    padding-left: 300px;
+    background-color: white;
+    color: #696969;
+    padding-top: 60px;
     
 }
