@@ -545,6 +545,7 @@ html{
 }
 .mobimenu{
     color: yellow !important;
+    padding-right: 50px;
 }
 .navbar-toggler-icon {
     display: inline-block;
@@ -556,13 +557,15 @@ html{
     background-size: 100% 100%;
     
     
+    
 }
 .navbar-light .navbar-toggler-icon {
     background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
 }
 .navbar-light .navbar-toggler {
-    color: blue;
-    border-color: yellow;
+    color: white;
+    border-color: #3c54b4;
+    
 }
 .navbar-toggler {
     padding: .25rem .75rem;
@@ -572,6 +575,7 @@ html{
     border: 1px solid transparent;
     border-radius: .25rem;
     
+    
 }
 #navPanel.visible {
     -moz-transform: translatex(0);
@@ -580,4 +584,32 @@ html{
     transform: translatex(0);
     box-shadow: 0 0 1.5em 0 rgba(0, 0, 0, 0.2);
     visibility: visible;
+}
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+.containermobi{
+    padding-left: px;
+    width: 300px;
+    padding-right: 200px;
+
+    
+
+}
+.rowmobi{
+    padding-right: 
+    height: 100px;
+    padding-bottom: initial;
+    width: 700px;
+    height: 0px;
+}
+.navmobi{
+    width: 100px;
+    padding-right:100px ;
+}
+.mobi{
+    padding-right: 100px !important;
 }
